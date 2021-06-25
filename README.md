@@ -1,5 +1,6 @@
 # Discord Sunucularınız İçin Yetkili Mazaret Sistemi
 Bu sistem sayesinde sadece belirli rollere sahip kişiler yetkililerinizin mazaret taleplerini görebilecek ve onaylayabilecektir. Sistemin yapılmasında ki amaç yetkililerin birbirlerinin mazaretini (varsa özel sebeplerden ötürü) görmemesidir.
+Not: Bu kod botunuzun main kısmına atılacaktır!
 
 # Detaylı Resim(ler)
 ![Tıkla!](https://media.discordapp.net/attachments/675246572312854538/857897752633671690/IMG_20210625_121907.jpg)
