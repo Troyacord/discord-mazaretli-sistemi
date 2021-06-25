@@ -1,6 +1,6 @@
 # Discord Sunucularınız İçin Yetkili Mazaret Sistemi
 
-Bu sistem sayesinde sadece sunucu yöneticileriniz, yetkililerinizin mazaret taleplerini görebilecek ve onaylayabilecektir. Sistemin yapılmasında ki amaç yetkililerin birbirlerinin mazaretini (varsa özel sebeplerden ötürü) görmemesidir.
+# Bu sistem sayesinde sadece sunucu yöneticileriniz, yetkililerinizin mazaret taleplerini görebilecek ve onaylayabilecektir. Sistemin yapılmasında ki amaç yetkililerin birbirlerinin mazaretini (varsa özel sebeplerden ötürü) görmemesidir.
 
 # Not: Bu kod botunuzun main kısmına atılacaktır!
 
